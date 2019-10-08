@@ -9,6 +9,6 @@ namespace WebAnkita.Controllers
     {
         public string name { get; set; }
         public string wriyt { get; }
-        public string bdv { get; set; }
+        public string branch { get; set; }
     }
 }

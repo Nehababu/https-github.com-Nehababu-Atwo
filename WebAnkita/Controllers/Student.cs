@@ -8,5 +8,6 @@ namespace WebAnkita.Controllers
     public class Student
     {
         public string name { get; set; }
+        public string wriyt { get; }
     }
 }
